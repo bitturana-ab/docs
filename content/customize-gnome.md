@@ -1,7 +1,7 @@
 ---
 title: Pop!_OS Customization
 description: >
-  Pop with the GNOME desktop is highly customizable!  See here to get started making your desktop just right for you.
+  Pop with the GNOME desktop is highly and very usefull customizable!  See here to get started making your desktop just right for you.
 keywords:
   - Pop_OS!
   - GNOME
